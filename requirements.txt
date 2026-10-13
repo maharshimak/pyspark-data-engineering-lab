@@ -1,0 +1,6 @@
+# Direct notebook dependencies; versions unresolved, review before isolated install.
+matplotlib
+numpy
+pandas
+pyspark
+seaborn
